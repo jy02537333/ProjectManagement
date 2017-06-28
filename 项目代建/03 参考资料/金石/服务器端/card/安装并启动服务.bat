@@ -1,0 +1,2 @@
+MyNtServer.exe -ir
+exit
